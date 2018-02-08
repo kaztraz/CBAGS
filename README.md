@@ -2,7 +2,7 @@
 
 ## Coding Buddies Accountability Group System
 
-# A webapp / Standalone App that intends to help you get motivated with coding / programing education!
+### A webapp / Standalone App that intends to help you get motivated with coding / programing education!
 
 * To-do list
 * reminders / alarms
