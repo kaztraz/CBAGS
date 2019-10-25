@@ -12,3 +12,8 @@
 
 + New time frame set, hope to get started by real soon...
 + System to be aquired... sure... Hacktoberfest!
+
+
++ System Refresh in work
++ New website
++ Rework all code structure
